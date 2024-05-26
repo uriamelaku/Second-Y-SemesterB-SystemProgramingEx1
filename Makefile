@@ -1,5 +1,3 @@
-// ooriamelaku@gmail.com
-// 208734889
 #!make -f
 
 CXX=clang++
